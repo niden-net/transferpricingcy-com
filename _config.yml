@@ -1,0 +1,23 @@
+app:
+  title: 'A&T Transfer Pricing Ltd.'
+  name: 'A&T Transfer Pricing Ltd.'
+  author: 'niden.net'
+  description: 'A&T Transfer Pricing Ltd. website'
+  keywords: 'a&t transfer pricing'
+  email: 'info@transferpricingcy.com'
+
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+
+

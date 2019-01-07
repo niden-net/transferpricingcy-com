@@ -1,10 +1,10 @@
 app:
-  title: 'Areco Ltd.'
-  name: 'Areco Ltd.'
+  title: 'A&T Transfer Pricing Ltd.'
+  name: 'A&T Transfer Pricing Ltd.'
   author: 'niden.net'
-  description: 'Areco Ltd. website'
-  keywords: 'areco, construction'
-  email: 'akis@arecocy.com'
+  description: 'A&T Transfer Pricing Ltd. website'
+  keywords: 'a&t transfer pricing'
+  email: 'info@transferpricingcy.com'
 
 kramdown:
   input: GFM
